@@ -285,6 +285,15 @@ defaults:
       author_profile: true
       share: true
       comment: true
+  #projects
+  - scope:
+      path: ""
+      type: project
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
   # _talks
   - scope:
       path: ""
