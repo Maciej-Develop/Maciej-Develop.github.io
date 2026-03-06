@@ -1,6 +1,6 @@
 ---
-title: "Project item number 1"
-excerpt: "Short description of portfolio item number 1<br/><img src='/images/500x300.png'>"
+title: "Sorting Race"
+excerpt: "A tool to compare the performances of a Bubble sort and of a Merge sort. <br/><img src='/images/sorting-race-interface.png'>"
 collection: portfolio
 ---
 
