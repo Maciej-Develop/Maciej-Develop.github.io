@@ -1,6 +1,6 @@
 ---
 title: "Sorting Race"
-excerpt: "A tool to compare the performances of a Bubble sort and of a Merge sort. <br/><img src='/images/sorting-race-interface.png' style="width:650px;">"
+excerpt: "A tool to compare the performances of a Bubble sort and of a Merge sort. <br/><img src='/images/sorting-race-interface.png' style='width:650px;'>"
 collection: portfolio
 ---
 
