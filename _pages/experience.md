@@ -5,7 +5,7 @@ permalink: /experience/
 author_profile: true
 ---
 
-[![Daihiti Logo](/images/logo-daihiti.png){: .align-right width="140px"}](https://www.daihiti.com/)
+[![Daihiti Logo](/images/personal/logo-daihiti.png){: .align-right width="140px"}](https://www.daihiti.com/)
 
 # Daihiti
 
