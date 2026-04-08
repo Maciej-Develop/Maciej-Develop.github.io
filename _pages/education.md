@@ -5,7 +5,7 @@ permalink: /education/
 author_profile: true
 ---
 
-[![HE2B-ESI LOGO](/images/Logo-esi.png){: .align-right width="140px"}](https://he2b.be/etudiant/)
+[![HE2B-ESI LOGO](/images/personal/Logo-esi.png){: .align-right width="140px"}](https://he2b.be/etudiant/)
 
 ### Bachelor of Computer Science (Application Development Orientation)
 
