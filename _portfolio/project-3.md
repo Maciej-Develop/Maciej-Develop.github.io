@@ -1,6 +1,6 @@
 ---
 title: "FrameFlow"
-excerpt: "A simple android app that lets you manage your backlog of movies and shows. <br/><img src='/images/android.png' style='width:650px;'>"
+excerpt: "A simple android app that lets you manage your backlog of movies and shows. <br/><img src='/images/personal/android.jpg' style='width:650px;'>"
 collection: portfolio
 ---
 
