@@ -7,7 +7,7 @@ author_profile: true
 
 ## Progamming languages : 
 
-Java, C++, Javascript
+Java, C++, Javascript, Kotlin
 
 ## Frameworks :
 
@@ -16,6 +16,10 @@ Spring Boot, Laravel, VueJS, Jetpack Compose
 ## Databases : 
 
 MySQL
+
+## Tools :
+
+React, Capacitor
 
 ## Other :
 
