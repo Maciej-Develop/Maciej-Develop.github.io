@@ -1,6 +1,6 @@
 ---
 title: "Stib Ride"
-excerpt: "An app that allows you to find the shortest path between two metro stations in Brussels <br/><img src='/images/stib-ride-interface.png' style='width:650px;'>"
+excerpt: "An app that allows you to find the shortest path between two metro stations in Brussels <br/><img src='/images/personal/stib-ride-interface.png' style='width:650px;'>"
 collection: portfolio
 ---
 
@@ -16,4 +16,4 @@ There are still things that can be optimized.
 
 ## Screenshots
 
-![Interface](/images/stib-ride-interface.png)
+![Interface](/images/personal/stib-ride-interface.png)
