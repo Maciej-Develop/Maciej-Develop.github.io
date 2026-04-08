@@ -10,6 +10,8 @@ FrameFlow is an Android mobile application that allows users to discover new mov
 
 The application uses [The Movie Database API](https://www.themoviedb.org/) and Firebase for storage and authentication.
 
+[Git repository here](https://github.com/Maciej-Develop/FrameFlow)
+
 ## Features
 
 - Discover trending movies and shows  
